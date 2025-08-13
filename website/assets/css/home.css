@@ -1,0 +1,47 @@
+.nav-icon {
+  color: var(--bs-red);
+}
+
+.navbar-brand {
+  color: var(--bs-yellow);
+  font-family: century Gothic;
+}
+
+#navbarResponsive {
+  color: var(--bs-gray-300);
+}
+
+.nav-li a {
+  color: var(--bs-purple);
+  background-color: var(--bs-red);
+}
+
+.navbar-custom a {
+  color: var(--bs-yellow);
+}
+
+.gallery-home {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.simple-slider {
+  float: none;
+}
+
+.p1 {
+  font-size: 26px;
+}
+
+.p55 {
+  float: right;
+}
+
+.fade-animation {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.fade-animation.show {
+  opacity: 1;
+}
